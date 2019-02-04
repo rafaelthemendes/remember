@@ -10,3 +10,5 @@ Screen where the cards with info shows up.
 - The card must be deleted when long pressed.
 - When deleted another card must show
 
+## Mock Image
+https://github.com/rafaelthemendes/remember/blob/master/Screenshot%202019-02-02%20at%2016.25.25.png

@@ -5,10 +5,10 @@ This a personal project to help me remember stuff.
 
 ## Summary
 There are going to be at first 4 screens:
-1. Register
-2. Login
-3. Add Remember
-4. Dashboard
+1. [Register](https://github.com/rafaelthemendes/remember/blob/master/register.md)
+2. [Login](https://github.com/rafaelthemendes/remember/blob/master/login.md)
+3. [Add](https://github.com/rafaelthemendes/remember/blob/master/add-remember.md)
+4. [Dashboard](https://github.com/rafaelthemendes/remember/blob/master/dashboard.md)
 
 
 ## Technologies to use
